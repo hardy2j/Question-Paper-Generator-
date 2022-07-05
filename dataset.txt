@@ -1,0 +1,522 @@
+•1
+Draw an ER diagram considering the scenario above.
+State any assumptions that you make.
+What is the biggest city in Japan?
+Who wrote War and Peace?
+How many ounces in a pound?
+What is an array
+What is a queue
+What is a graph
+Identify an array
+What do you remember about
+How would you define
+How would you identify
+Can you name all the   
+Describe what happens when   
+How is (are)   
+How would you define   
+How would you identify   
+How would you outline   
+How would you recognise  
+List the … in order.
+What do you remember about   
+What does it mean?
+What happened after?
+What is (are)   
+What is the best one?
+What would you choose   
+When did   
+Where is (are)   
+Which one   
+Who spoke to   
+Who was   
+Why did   
+Who?
+Where?
+Which one?
+What?
+How?
+Why?
+How much?
+How many?
+When?
+What does it mean?
+What happened after?
+What is the best one?
+Can you name all the?
+Who spoke to?
+Which is true or false?
+How would you recognize
+Identify a queue
+Identify functional dependencies for Office relation.
+Is the schema in BCNF? State reasons if not.
+Describe in brief about the von Neumann Architecture with the aid of a diagram.
+List down the different types of bits and bytes relationships.
+If a PC consist with 32 BIT memory, what is the memory capacity of that PC?
+If a PC consist with 512MB of main memory (RAM), how many bits are used to address the memory locations of that PC?
+How many characters are possible in ASCII?
+If the ASCII code for the letter "A" is 65, what is the ASCII Code for the letter "D"?
+Write down the truth table for the above-mentioned circuit
+State and explain TWO reasons to justify your answer.
+Identify the direct and indirect users for the scenarios given below.
+Read the following case study related to “SLIIT Library Management” and answer the questions given below.
+Cleary identify the processes related to the case study.
+List down the activities need to be performed throughout the processes.
+Identify the actors who perform those activities in the processes.
+What is a database?. Explain briefly
+What is a database management system (DBMS)?
+What is known as the ANSI/SPARC model? Give another name for the ANSI/SPARC model.
+Draw the Three Schema Architecture. Name the three schemas.
+What is the advantage of having the three schema architecture?
+What is the advantage of using a DBMS for a bank?
+What is a data model?
+Name 2 types of Data Models and give some examples for each.
+Describe the following terms.
+What is the entity you should consider in order to answer the above query.
+Can you suggest a suitable primary key for the entity you named?
+List the attributes.
+Identify a suitable primary key.
+Identify a possible composite key.
+Identify a possible candidate key.
+Name some ER diagramming conventions.
+•2
+Explain the advantages of using a database approach in comparison to the file- processing system?
+Explain the advantages of using a graph
+Explain the advantages of using an array
+Explain the advantages of using an queue
+How would you illustrate the water cycle?
+What is the main idea of this story?
+How would you generalize
+How would you express
+What can you infer from
+What does this mean?
+Which are the facts?
+State in your own words.
+Is this the same as?
+Give an example.
+Select the best definition.
+Condense this paragraph.
+What would happen if?
+Explain why
+What expectations are there?
+Read the graph
+Can you clarify  
+Can you illustrate   
+Condense this paragraph.
+Contrast …
+Does everyone think in the way that … does?
+Elaborate on …
+Explain why …
+Give an example
+How can you describe
+How would you clarify the meaning
+How would you compare   
+How would you differentiate between   
+How would you describe  
+How would you generalise  
+How would you identify   
+Is it valid that   
+Is this the same as   
+Outline …
+Select the best definition
+State in your own words
+This represents …
+What are they saying?
+What can you infer from   
+What can you say about   
+What could have happened next?
+What did you observe?
+What does this mean?
+What expectations are there?
+What information can you infer from  
+What is the main idea of   
+What restrictions would you add?
+What seems likely?
+What seems to be   
+What would happen if   
+What would happen if   
+Which are the facts?
+Which statements support   
+What are they saying?
+This represents
+What seems to bee?
+Is it valid that?
+What seems likely?
+Show in a graph, table.
+Which statements support?
+What restrictions would you add?
+Outline
+What could have happened next?
+Can you clarify?
+Can you illustrate?
+Does everyone think in the way that does? 
+What did you observe
+If I put these three blocks together, what shape do they form?
+Briefly explain each main step in the process of designing a DB for an application domain.
+Convert the following EER diagram to the relational model
+Identify functional dependencies for Office relation.
+Illustrate how you obtained the keys.
+If not, convert it to BCNF (ensure lossless join decomposition)
+Describe in brief about the von Neumann Architecture with the aid of a diagram.
+Explain in brief about the functions of each part listed in the von Neumann Architecture.
+Give some examples for each data type you listed.
+Explain how BCD works and limitation of it?
+Represent following numbers in BCD format?
+What was the reason to select Unicode to represent characters?
+Write down the truth table for the above-mentioned circuit
+Explain TWO instances where computer-based information systems (CBIS) are preferred over the manual information systems for a business.
+Do you agree with this statement?
+State and explain TWO reasons to justify your answer.
+Explain this statement using your knowledge and examples on need for information systems/ information technology in business organizations.
+Identify the direct and indirect users for the scenarios given below.
+Cleary identify the processes related to the case study.
+Identify the actors who perform those activities in the processes.
+What is a database?. Explain briefly.
+What is an array?
+Describe an array?
+Describe a graph?
+Describe an queue?
+Give example situations in which databases are used.
+Give example DBMS available
+Compare and contrast different Data storage mechanisms
+Briefly explain the 3 schemas.
+Describe the following terms.
+Identify a suitable primary key.
+Identify a possible composite key.
+Identify a possible candidate key.
+•3
+Draw an ER diagram considering the scenario above.
+Write down the candidate key(s).
+Write down the types of an array
+Write down the types of a queue
+Write down the types of a graph
+How would you demonstrate
+How would you present
+How would you change
+How would you modify
+Predict what would happen if
+Choose the best statements that
+apply
+Judge the effects of
+What would result?
+Tell what would happen if
+Tell how, when, where, why
+Tell how much change there would
+be if
+Identify the results of
+Can you group by characteristics such as   
+Choose the best statements that apply
+Clarify why …
+Do you know of another instance where   
+Draw a story map
+Explain why a character acted in the way that he did
+From the information given, can you develop a set of instructions about   
+How could you develop   
+How would you change   
+How would you demonstrate  
+How would you develop … to present ?
+How would you explain   
+How would you modify   
+How would you present  
+How would you solve … ?
+Identify the results of …
+Illustrate the …
+Judge the effects of … What would result   
+Predict what would happen if …
+Tell how much change there would be if …
+Tell what would happen if …
+What actions would you take to perform   
+What do you think could have happened next?
+What examples can you find that ?
+What other way would you choose to   
+What questions would you ask of   
+What was the main idea   
+What would the result be if   
+Which factors would you change if   
+Who do you think  
+Why does this work?
+Write a brief outline …
+Write in your own words …
+Write in your own words
+How would you explain?
+Write a brief outline
+What do you think could have
+happened next?
+Who do you think?
+What was the main idea?
+Clarify why
+Illustrate the
+Does everyone act in the way that does?
+Draw a story map.
+Explain why a character acted in
+the way that he did.
+Do you know of another instance where?
+Can you group by characteristics such as?
+Which factors would you change if?
+What questions would you ask of?
+From the information given, can you develop a set of instructions about? 
+How would you use your knowledge of latitude and longitude to locate Greenland?
+What happens when you multiply each of these numbers by nine?
+If you had eight inches of water in your basement and a hose, how would you use the hose to get the water out?
+Illustrate how you obtained the keys.
+Consider the following schema and write relational algebra statements to cater the given queries
+Consider the following schema and write relational algebra statements to cater the given queries
+Draw a diagram showing the connection between the CPU and various devices and their access to memory.
+Explain in brief about the functions of each part listed in the von Neumann Architecture.
+Explain how BCD works and limitation of it?
+What was the reason to select Unicode to represent characters?
+Draw a circuit diagram for the simplified expression in part (c) using Basic Logic gates.
+Write down the truth table for the above-mentioned circuit
+Explain TWO instances where computer-based information systems (CBIS) are preferred over the manual information systems for a business.
+Do you agree with this statement?
+State and explain TWO reasons to justify your answer.
+Explain this statement using your knowledge and examples on need for information systems/ information technology in business organizations.
+Model process diagrams with the appropriate BPMN notations.
+What is a database?. Explain briefly
+Draw the Three Schema Architecture. Name the three schemas.
+Briefly explain the 3 schemas.
+Briefly explain the types of an array
+Briefly explain the types of an graph
+Briefly explain the types of an queue
+What type of data would they store in their database?
+Why and when should we use an array
+Why and when should we use an graph
+Why and when should we use an queue
+In the three schema architecture which schema describes details about the type of file organization used to store the above data?
+In which step is the ER Model used?. 
+In which step is the Relational Data Model used?
+Can you suggest a suitable primary key for the entity you named?
+•4
+Explain the advantages of using a database approach in comparison to the file- processing system?
+Illustrate how you obtained the keys.
+Explain in brief about the functions of each part listed in the von Neumann Architecture.
+What are the basic data types available to represent data in computers?
+What are other character codes available?
+Explain how BCD works and limitation of it?
+What was the reason to select Unicode to represent characters?
+What was the reason to select array?
+How can you sort the parts
+What can you infer
+What ideas validate
+How would you explain
+What was the reason to select the queue?
+What was the reason to use the graph?
+Write down the truth table for the above-mentioned circuit
+Explain TWO instances where computer-based information systems (CBIS) are preferred over the manual information systems for a business.
+State and explain TWO reasons to justify your answer.
+Explain this statement using your knowledge and examples on need for information systems/ information technology in business organizations.
+What is a database?. Explain briefly
+Compare and contrast different Data storage mechanisms
+Briefly explain the 3 schemas.
+Can you distinguish between   
+Can you explain what must have happened when   
+Determine the point of view, bias, values, or intent underlying the presented material
+Discuss the pros and cons of …
+How can you classify … according to   
+How can you compare the different parts?
+How can you sort the different parts  
+How is … connected to   
+How is … similar to   
+How would you categorise  
+How would you explain ?
+If … happened, what might the ending have been?
+State the point of view of …
+What are some of the problems of   
+What assumptions   
+What can you infer about  
+What can you point out about ?
+What conclusions   
+What do you see as other possible outcomes?
+What does the author assume?
+What explanation do you have for   
+What ideas justify the conclusion?
+What ideas validate  
+What is the analysis of   
+What is the function of   
+What is the problem with   
+What motive is there?
+What persuasive technique is used?
+What statement is relevant?
+What was the turning point?
+What were some of the motives behind   
+What’s fact? Opinion?
+What’s the main idea?
+What’s the relationship between?
+Which events could not have happened?
+Why did … changes occur?
+Why do you think ?
+What are some of the factors that cause rust?
+Why did the United States go to war with England?
+Why do we call all these animals mammals?
+What are possible data required by an airline system?
+In the three schema architecture which schema describes details about the type of file organization used to store the above data?	
+In which step is the ER Model used?. 
+In which step is the Relational Data Model used?
+Why is it not considered as the primary key?
+What is the function of?
+What’s fact? Opinion?
+What assumptions?
+What statement is relevant?
+What motive is there?
+What conclusions?
+What does the author believe?
+What does the author assume?
+State the point of view of
+What ideas apply?
+What ideas justify the conclusion?
+What’s the relationship between?
+The least essential statements are
+What’s the main idea? Theme?
+What literary form is used?
+What persuasive technique is used?
+Determine the point of view, bias, values, or intent underlying presented material.
+Which events could not have happened?
+If happened, what might the ending have been?
+How is similar to?
+What do you see as other possible
+outcomes?
+Why did changes occur?
+Can you explain what must have happened when?
+What were some of the motives behind?
+What was the turning point?
+What are some of the problems of?
+Can you distinguish between ?
+•5
+Explain the advantages of using a database approach in comparison to the file- processing system?
+Briefly explain each main step in the process of designing a DB for an application domain.
+Consider the following requirements given in order to develop a database for the reservation system.
+Draw an ER diagram considering the scenario above.
+Consider the following requirements for a university database.
+Consider the relation X(A,B,C,) is.
+Consider the following schema and write relational algebra statements to cater the given queries
+Consider the following schema and write relational algebra statements to cater the given queries
+What are the basic data types available to represent data in computers?
+What are other character codes available?
+Write down the truth table for the above-mentioned circuit
+Do you agree with this statement?
+Compare and contrast different Data storage mechanisms
+What do you mean by logical data independence and physical data independence.
+What are possible data required by an airline system?
+Is it necessary for them to use a DBMS?
+Is it necessary for them to use a array
+Is it necessary for them to use a queue
+Is it necessary for them to use a graph
+What criteria would you use to assess
+What data were used to evaluate
+How could you verify
+What information would you use to prioritize
+How would you assemble these items to create a windmill?
+How would your life be different if you could breathe under water?
+Construct a tower one foot tall using only four blocks.
+Put these words together to form a complete sentence.
+Consider the steps in the database design process
+What is the entity you should consider in order to answer the above query.
+Consider the entity STUDENT in the SLIIT student information system
+What fallacies, consistencies,inconsistencies appear?
+Which is more important,moral, better, logical, valid, appropriate?
+Find the errors.
+Is there a better solution to?
+Judge the value of 
+What do you think about   
+Can you defend your position about ?
+Do you think is a good or bad thing?
+How would you have handled?
+Can you defend your position about   
+Determine the value of …
+Do you believe   
+Do you think … is a good or bad thing?
+Find the errors
+How could you verify   
+How effective are   
+How would you determine the facts   
+How would you feel if   
+How would you grade   
+How would you have handled  
+Is there a better solution to  
+Judge the value of …
+Rank the importance of …
+Rate the …
+What are the alternatives?
+What are the consequences of  
+What are the possible outcomes for  
+What are the pros and cons of  
+What changes to … would you recommend?
+What choice would you have made   
+What criteria would you use to assess  
+What data was used to evaluate   
+What do you think about   
+What fallacies, consistencies, inconsistencies appear?
+What influence will … have on our lives?
+What information would you use to prioritise?
+What is the most important   
+What is your opinion of   
+What sources could you use to verify  
+What would you suggest ?
+Which is more important, moral, better, logical, valid, appropriate?
+Who will gain and who will lose?
+Why is … of value?
+What changes to would you recommend?
+Do you believe ?
+How would you feel if ?
+How effective are ?
+What are the consequences of?
+What influence will have on our lives?
+What are the pros and cons of?
+Why is of value?
+What are the alternatives?
+Who will gain and who will lose? 
+•6
+Explain the advantages of using a database approach in comparison to the file- processing system?
+Briefly explain each main step in the process of designing a DB for an application domain.
+Write down the candidate key(s).
+Consider the following schema and write relational algebra statements to cater the given queries
+Consider the following schema and write relational algebra statements to cater the given queries
+Create the Employee table Department tables with following constraints
+If a PC consist with 512MB of main memory (RAM), how many bits are used to address the memory locations of that PC?
+How many characters are possible in ASCII?
+If we are dealing with structures what should we use?
+What was the reason to select Unicode to represent characters?
+Write down the truth table for the above-mentioned circuit
+Can you suggest a suitable primary key for the entity you named?
+What do you think about your work so far?
+What story did you like the best?
+Do you think that the pioneers did the right thing?
+What alternative would you suggest for
+What changes would you make to revise 
+Can you design a to?
+Can you see a possible solution to?
+If you had access to all resources, how wouldyou deal with ?
+Why don’t you deviseyour own way to ?
+What would happen if?
+How many ways can you?
+Can you create new and unusual uses for?
+Can you develop a proposal which would?
+How would you test   
+Propose an alternative.
+How else would you   
+State a rule
+Can you brainstorm a better solution for  
+Can you create new and unusual uses for   
+Can you design a … to   
+Can you develop a proposal which would  
+Can you see a possible solution to   
+Devise a way to …
+How many ways can you  
+How would you compile the facts for   
+How would you elaborate on the reason   
+How would you generate a plan to   
+How would you improve   
+How would you portray   
+How would you test   
+If you had access to all resources, how would you deal with   
+List the ways you can  
+Predict the outcome if …
+Propose an alternative. How else would you   
+What changes would you make to revise   
+What could you invent   
+What facts can you gather   
+What would happen if  
+Why don’t you devise your own way to   
+How would you generate a plan to
+What could you invent
+Why do you think Benjamin Franklin is so famous?
